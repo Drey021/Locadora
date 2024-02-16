@@ -37,6 +37,18 @@ git clone https://github.com/Drey021/Locadora
 5. **Acesse o sistema pelo navegador:**
 Por exemplo: http://localhost/Locadora
 
+6. **La tera as seguintes informações:**
+
+| Campo     | Informações ja presentes |
+| ---      | ---       |
+|Usuário:| andrey|
+|Senha:| 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4|
+|nomeUser:| andrey|
+
+7. Quando entrar na página principal, você ja sera direcionado automaticamente para o login. Onde o nome de LOGIN é: **andrey** e a SENHA é: **abcd**.
+
+8. Pronto ja estara com seu sistema pronto para uso ;) 
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para relatar bugs, sugerir melhorias ou enviar pull requests.
