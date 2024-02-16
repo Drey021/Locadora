@@ -35,7 +35,7 @@ git clone https://github.com/Drey021/Locadora
 
 4. **Inicie seu servidor web.**
 5. **Acesse o sistema pelo navegador:**
-Por exemplo: http://localhost/nome-do-repositorio
+Por exemplo: http://localhost/Locadora
 
 ## Contribuição
 
@@ -45,4 +45,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para rela
 
 Este projeto está licenciado sob a **Licença MIT**.
 
-Certifique-se de substituir `seu-usuario` e `nome-do-repositorio` pelas informações corretas do seu usuário e do seu repositório no GitHub.
