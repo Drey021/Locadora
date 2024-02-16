@@ -18,7 +18,7 @@ Este é um sistema de locadora de filmes desenvolvido em PHP e MySQL. Ele permit
 ## Instalação
 
 1. **Clone o repositório:**
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Drey021/Locadora
 
 
 2. **Importe o banco de dados:**
